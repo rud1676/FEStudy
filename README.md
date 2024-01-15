@@ -34,3 +34,8 @@ FE에 관련되어 있어야 됨. (알고리즘,컴퓨터구조 이런건 X)
 
 - [패키지 매니저 비교](./Notes/Nodejs/PackageManager.md)
 - [MVVM, Flux패턴의 비교](./Notes/Nodejs/MVVM_FluxPattern.md)
+
+---
+
+- [브라우저 랜더링 원리]()
+- [프론트엔드 테스팅 방법론]()
