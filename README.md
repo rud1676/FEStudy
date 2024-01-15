@@ -32,6 +32,5 @@ FE에 관련되어 있어야 됨. (알고리즘,컴퓨터구조 이런건 X)
 
 ## FE에 관한 지식들
 
-- [node pakcage란?]()
-- [yarn, yarn berry, npm 등 패키지 매니저 비교]()
+- [패키지 매니저 비교](./Notes/Nodejs/PackageManager.md)
 - [MVVM, Flux패턴의 비교](./Notes/Nodejs/MVVM_FluxPattern.md)
