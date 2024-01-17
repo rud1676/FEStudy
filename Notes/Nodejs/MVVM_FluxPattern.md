@@ -8,8 +8,8 @@
 - [3.Flux](<#Flux(Feat-React)>)
   - [3-1. Flux vs MVC](#21-mvc-vs-mvvm)
 - [Flux vs MVVM(feat Vue, React)](#flux-vs-mvvmfeat-vue-react)
-- [Vue](#vue)
-- [React](#react)
+- [Vue](#데이터-바인딩-vue---mvvm)
+- [React](#컴포넌트-상태-관리-react---flux)
 
 ---
 

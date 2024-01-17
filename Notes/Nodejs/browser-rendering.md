@@ -22,8 +22,9 @@
   - 로딩 성능 최적화
     - 컴포넌트 Lazy Loading (Code Splitting)
     - 컴포넌트 Preloading
-    - 이미지 Preloading    
+    - 이미지 Preloading
 - React.js와 Vue.js의 렌더링
 
-  --  WIP --
+  -- WIP --
+
 ---
