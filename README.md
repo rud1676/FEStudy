@@ -6,8 +6,10 @@ git 참고(https://github.com/baeharam/Must-Know-About-Frontend)
 
 ## 기여자
 
-@rud1676
-@OOWGNOD
+| 아이디                                 | 이미지                                                                                   |
+| -------------------------------------- | ---------------------------------------------------------------------------------------- |
+| [@rud1676](github.com/rud1676)         | <img src="https://avatars.githubusercontent.com/u/51875363?v=4" width=100 alt="rud1676"> |
+| [@OOWGNOD](https://github.com/OOWGNOD) | <img src="https://avatars.githubusercontent.com/u/86402288?v=4" width=100 alt="rud1676"> |
 
 ## 지식 선정 규칙
 
