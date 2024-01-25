@@ -41,3 +41,8 @@ FE에 관련되어 있어야 됨. (알고리즘,컴퓨터구조 이런건 X)
 
 - [브라우저 랜더링 원리](./Notes/Nodejs/browser-rendering.md)
 - [프론트엔드 테스팅 방법론](./Notes/FETest.md)
+
+---
+
+- [JavaScript-Interator와Generator](./Notes/Nodejs/Iterator_Generator.md)
+- [SSR과CSR의개념](./Notes/CSR_SSR.md)
